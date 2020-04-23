@@ -1,0 +1,22 @@
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	39	2638	+	NZ_KB372799.1-Erwinia_toletana_DAPP-PG_735_scf_2378_10.1,_whole_genome_shotgun_sequence	237636	45901	48509	76	2631	16	tp:A:P	cm:i:6	s1:i:65	s2:i:42	dv:f:0.2924
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	1773	6777	+	NZ_MPTZ01000024.1-Escherichia_coli_strain_RF1a_IMT32642_S3_L001_R1_001_contig_13,_whole_genome_shotgun_sequence	73529	61559	66624	75	5069	0	tp:A:P	cm:i:5	s1:i:63	s2:i:58	dv:f:0.3487
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	8170	9991	-	NZ_KB000004.1-Escherichia_coli_LCT-EC59_Scaffold004,_whole_genome_shotgun_sequence_	502456	139719	141551	60	1832	0	tp:A:P	cm:i:4	s1:i:58	s2:i:58	dv:f:0.2977
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	1773	6073	-	NZ_MPUB01000005.1-Escherichia_coli_strain_LM27564_IMT32644_S5_L001_R1_001_contig_18,_whole_genome_shotgun_sequence	214829	8171	12474	60	4307	0	tp:A:S	cm:i:4	s1:i:58	dv:f:0.3529
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	8170	9991	-	NZ_JH650820.1-Escherichia_coli_LCT-EC106_Scaffold5,_whole_genome_shotgun_sequence_	570877	138743	140575	60	1832	0	tp:A:S	cm:i:4	s1:i:58	dv:f:0.2977
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	8170	9991	+	NZ_HE572566.1-Escherichia_coli_HM605,_whole_genome_shotgun_sequence__	4989509	606593	608425	60	1832	0	tp:A:S	cm:i:4	s1:i:58	dv:f:0.2977
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	8170	9991	-	NZ_KB223478.1-Escherichia_coli_LCT-EC52_Scaffold002,_whole_genome_shotgun_sequence_	1057734	495713	497545	60	1832	0	tp:A:S	cm:i:4	s1:i:58	dv:f:0.2977
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	8170	10034	+	NZ_CP018770.2-Escherichia_coli_strain_2016C-3936C1_chromosome,_complete_genome__	5060620	3262869	3264740	60	1875	0	tp:A:S	cm:i:4	s1:i:57	dv:f:0.2992
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	9466	10672	+	NZ_KB895362.1-Chitiniphilus_shinanonensis_DSM_23277_C556DRAFT_scaffold00029.29,_whole_genome_shotgun_sequence	33388	22841	24040	45	1206	1	tp:A:P	cm:i:3	s1:i:43	s2:i:0	dv:f:0.2913
+53e0e894-0893-4476-9adc-bbc8ac90e1cf	22739	5958	10606	+	NZ_KB372804.1-Erwinia_toletana_DAPP-PG_735_scf_2378_174.1,_whole_genome_shotgun_sequence	2284202	517353	522173	119	4827	11	tp:A:P	cm:i:11	s1:i:86	s2:i:0	dv:f:0.2902
+e79b1858-fa5c-4d4c-bee4-9a6317b0cc68	17327	1783	1854	+	NC_014640.1-Achromobacter_xylosoxidans_A8,_complete_genome____	7013095	4232832	4232905	40	73	0	tp:A:P	cm:i:4	s1:i:40	s2:i:0	dv:f:0.0732
+2273f3a5-ccb4-41ba-a9be-0dbccc0ceb4e	9483	2948	3907	-	NC_009092.1-Shewanella_loihica_PV-4,_complete_genome____	4602594	2429340	2430273	46	959	0	tp:A:P	cm:i:4	s1:i:40	s2:i:0	dv:f:0.2534
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2665	5466	-	NC_008700.1-Shewanella_amazonensis_SB2B,_complete_genome____	4306142	2378621	2381489	151	2871	6	tp:A:P	cm:i:14	s1:i:137	s2:i:132	dv:f:0.2393
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2819	5466	-	NC_017571.1-Shewanella_baltica_BA175,_complete_genome____	5066051	2938866	2941588	148	2727	0	tp:A:S	cm:i:12	s1:i:132	dv:f:0.2454
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2819	5466	+	NC_009665.1-Shewanella_baltica_OS185,_complete_genome____	5229686	2265527	2268249	148	2727	0	tp:A:S	cm:i:12	s1:i:132	dv:f:0.2454
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2819	5466	+	NC_009052.1-Shewanella_baltica_OS155,_complete_genome____	5127376	2173096	2175818	148	2727	0	tp:A:S	cm:i:12	s1:i:132	dv:f:0.2454
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2819	5466	+	NZ_CM001435.1-Shewanella_baltica_OS183_chromosome,_whole_genome_shotgun_sequence_	5049928	2100296	2103018	148	2727	0	tp:A:S	cm:i:12	s1:i:132	dv:f:0.2454
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	2819	5466	-	NC_011663.1-Shewanella_baltica_OS223,_complete_genome____	5145902	2890679	2893401	148	2727	0	tp:A:S	cm:i:12	s1:i:132	dv:f:0.2454
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	7343	9054	+	NC_009438.1-Shewanella_putrefaciens_CN-32,_complete_genome____	4659220	1858384	1860136	84	1801	2	tp:A:P	cm:i:9	s1:i:59	s2:i:57	dv:f:0.2391
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	1773	6777	+	NZ_MPTZ01000024.1-Escherichia_coli_strain_RF1a_IMT32642_S3_L001_R1_001_contig_13,_whole_genome_shotgun_sequence	73529	61559	66624	75	5069	0	tp:A:P	cm:i:5	s1:i:63	s2:i:58	dv:f:0.3487
+b7b4f14f-1842-4c97-a851-f54b1abab5b7	9373	3160	6606	-	NC_009092.1-Shewanella_loihica_PV-4,_complete_genome____	4602594	2582430	2585963	65	3533	10	tp:A:P	cm:i:5	s1:i:48	s2:i:0	dv:f:0.3217
+1939f9f7-d5ef-43d5-928f-a4361c3819f9	10862	1773	6777	+	NZ_MPTZ01000024.1-Escherichia_coli_strain_RF1a_IMT32642_S3_L001_R1_001_contig_13,_whole_genome_shotgun_sequence	73529	61559	66624	75	5069	0	tp:A:P	cm:i:5	s1:i:63	s2:i:58	dv:f:0.3487
